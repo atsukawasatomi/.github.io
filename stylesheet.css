@@ -1,5 +1,7 @@
 .map {
   position: relative;
+  width: 1000px;
+  length: 1800px;
 }
 
 .guamisland {
@@ -10,6 +12,6 @@
 
 .hotel {
   position: absolute;
-  top: 10px;
-  left: 200px;
+  top: 50px;
+  left: 280px;
 }
