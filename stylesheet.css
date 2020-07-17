@@ -1,3 +1,15 @@
-.title {
-  color: #02ccba;
+.map {
+  position: relative;
+}
+
+.guamisland {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.hotel {
+  position: absolute;
+  top: 50px;
+  left: 280px;
 }
